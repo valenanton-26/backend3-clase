@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "macbook",
+      "price": 1500,
+      "stock": 5,
+      "code": "ASD",
+      "published": true,
+      "creation_date": "10/08"
+    },
+    {
+      "id": 2,
+      "name": "macbook air",
+      "price": 2000,
+      "stock": 5,
+      "code": "GRT",
+      "published": true,
+      "creation_date": "11/08"
+    },
+    {
+      "id": 3,
+      "name": "macbook pro",
+      "price": 2500,
+      "stock": 5,
+      "code": "ZYW",
+      "published": true,
+      "creation_date": "12/08"
+    }
+  ]
+  
